@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- `<Muh.Rifky Gunawan> - <BE4770900>`
 - Bob
